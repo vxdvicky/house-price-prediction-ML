@@ -1,8 +1,18 @@
 # 🏠 House Price Prediction using Linear Regression
 
+## 🌐 Live Demo
+
+**Try the application here:**
+
+https://house-price-prediction-vxd.streamlit.app/
+
 An end-to-end Machine Learning project that predicts house prices based on property features using the **Linear Regression** algorithm. The project covers the complete workflow from data preprocessing and exploratory data analysis (EDA) to model training, evaluation, and deployment with **Streamlit**.
 
 ---
+
+<p align="center">
+  <img src="image-1.png" width="900" alt="House Price Prediction App">
+</p>
 
 ## 📌 Project Overview
 
@@ -55,38 +65,21 @@ The model uses the following features to predict house prices:
 
 ```text
 Dataset
-   │
-   ▼
+   ↓
 Data Cleaning
-   │
-   ▼
-Exploratory Data Analysis
-   │
-   ▼
-Feature Selection
-   │
-   ▼
-Train-Test Split
-   │
-   ▼
-Linear Regression
-   │
-   ▼
+   ↓
+EDA
+   ↓
+Feature Engineering
+   ↓
+Model Training
+   ↓
 Model Evaluation
-   │
-   ▼
+   ↓
 Model Saving
-   │
-   ▼
-Streamlit Application
+   ↓
+Streamlit Deployment
 ```
-
----
-
-## 🖥️ Application Preview
-
-> *(Add a screenshot of your Streamlit application here after deployment.)*
-
 ---
 
 ## 📊 Project Highlights
@@ -108,4 +101,6 @@ Streamlit Application
 
 ---
 
-### ⭐ If you found this project useful, consider giving it a Star.
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
